@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+
+}
+
+.head-img {
+  margin-top: 125px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .center {
+    width: 80%
+  }
+
+  .head-img {
+    margin-top: 50px;
+  }
+
+
+}
+
+.heading-text {
+  color: #AEA095;
+  text-align: center;
+  
+
+}
+// #949697
